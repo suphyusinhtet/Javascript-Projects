@@ -1,4 +1,4 @@
-#Javascript Projects
+# Javascript Projects
 
 ## 1. Netflix-clone project
 
