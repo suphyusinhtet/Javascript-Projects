@@ -8,6 +8,6 @@ For testing - [Click here](https://netflix-clone-spsh.netlify.app/)
 
 ## 2. Fighting game project
 
-#### I used vanilla JS to build this Netflix-clone project.
+#### I used vanilla JS to build this Fighting game project.
 
 For testing - [Click here](https://fighting-game-spsh.netlify.app/)
