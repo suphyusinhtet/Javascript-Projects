@@ -1,2 +1,3 @@
-# Javascript-Projects
-I will upload javascript projects.
+# Netflix-clone project
+
+#### I used vanilla JS to build this Netflix-clone project.
